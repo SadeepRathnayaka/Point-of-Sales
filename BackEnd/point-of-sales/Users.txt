@@ -1,0 +1,26 @@
+{
+  "userName": "JohnDoe",
+  "email": "john@example.com",
+  "role": "ADMIN",
+  "password": "securePass123",
+  "rePassword": "securePass123"
+}
+jwt : eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQURNSU4iLCJzdWIiOiJKb2huX2RvZSIsImlhdCI6MTc0MjU4NDg5MiwiZXhwIjoxNzQyNjkyODkyfQ.zlPFOMlnND7CTyrrJ2EgqBKeVWxOLqYizDiNlxzh5M0
+
+
+{
+  "userName": "MichaelSmith",
+  "email": "michael.smith@example.com",
+  "role": "CASHIER",
+  "password": "m@123",
+  "rePassword": "m@123"
+}
+jwt : eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQ0FTSElFUiIsInN1YiI6Im1pY2hhZWxfc21pdGgiLCJpYXQiOjE3NDI1ODQ5ODIsImV4cCI6MTc0MjY5Mjk4Mn0.d-MpufAtpMmHiwPyE3ME-Q0gILaQvMqjKi-hEnOwxhw
+
+{
+    "userName": "DavidWilliams",
+    "email": "david.williams@example.com",
+    "role": "MANAGER",
+    "password": "securePass123",
+    "rePassword": "securePass123"
+  }
