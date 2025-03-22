@@ -45,12 +45,12 @@ Handles inventory management.
 #### **Inventory Entity**
 | inventoryId | name   | description  | brandId | category | unit  | stock | inventoryPrice | inventoryExpireDate |
 |------------|--------|-------------|---------|----------|-------|-------|----------------|----------------------|
-| 201        | Laptop | Gaming Laptop | 10      | ELECTRONICS | PIECE | 25    | 1200.00        | 2026-06-01          |
+| 201        | Apple | Red apples 1kg | 10      | FRUITS | PACK | 150    | 1200.00        | 2026-06-01          |
 
 #### **Brand Entity**
 | brandId | brandName |
 |---------|----------|
-| 10      | Dell     |
+| 10      | FreshFarms     |
 
 ---
 
